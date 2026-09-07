@@ -1,10 +1,7 @@
 
 
 # SyncText - A CRDT-Based Collaborative Text Editor
-
-**Final Implementation with Complete Bug Fixes**
-
----
+--
 
 ## Project Overview
 
